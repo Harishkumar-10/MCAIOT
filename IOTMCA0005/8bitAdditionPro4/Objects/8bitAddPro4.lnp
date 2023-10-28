@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\8bitAdd.obj" 
+TO ".\Objects\8bitAddPro4" 
+PRINT(".\Listings\8bitAddPro4.m51")

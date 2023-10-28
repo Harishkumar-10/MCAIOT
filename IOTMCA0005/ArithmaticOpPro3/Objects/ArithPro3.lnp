@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\Operations.obj" 
+TO ".\Objects\ArithPro3" 
+PRINT(".\Listings\ArithPro3.m51")

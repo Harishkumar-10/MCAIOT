@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\SqWaveCode.obj" 
+TO ".\Objects\SqWave" 
+PRINT(".\Listings\SqWave.m51")
